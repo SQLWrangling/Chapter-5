@@ -1,0 +1,6 @@
+ID	Customer	Email1	Phone	City	State	Zipcode
+100	Stan Marsh	NULL	740-097-0951	Dallas	Texas	12345
+200	Butters	bstotch@spelementary.com	NULL	New York	New York	65789
+300	Kenny 	NULL		LA	California	98765
+400	Kyle 	kbroflovski@spelementary.com	619-722-2491	Chicago	Illinois	45456
+500	Eric 	ecartman@spelementary.com	740-6733-5671	San Diago	California	67876
